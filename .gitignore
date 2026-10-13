@@ -1,0 +1,17 @@
+node_modules/
+.remotion/
+out/
+scratch/
+*.wfp
+*.gif
+*.mp4
+*.wav
+*.m4a
+*.jpg
+*.png
+*.ttf
+elements/
+public/assets/
+*.log
+.DS_Store
+
